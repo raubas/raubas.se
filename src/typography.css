@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "RussoOne";
+  src:
+    local("RussoOne"),
+    url("./fonts/RussoOne-Regular.ttf");
+}
+
+body {
+    font-size: 100%;
+}
+
+p {
+    font-family: RussoOne, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 1rem;
+}
+
+.small {
+    font-size: .8rem;
+}
+
+h1 {
+    font-family: RussoOne, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 3rem;
+}
+
+a {
+    font-family: RussoOne, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: white;
+}

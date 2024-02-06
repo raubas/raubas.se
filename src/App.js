@@ -1,23 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import './typography.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div className="App-content">
+        <h1>Raubas AB</h1>
+        <p>All things digital.</p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+            className="App-link"
+            href="https://se.linkedin.com/in/rubensvartholm"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Contact on Linkedin</a>
+        <div className='App-footer'>
+          <p className="small">Copyright 2024 Raubas AB</p>
+        </div>
+      </div>
     </div>
   );
 }
