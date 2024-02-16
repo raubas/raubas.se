@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24c8cabb.css",
+    "main.js": "/static/js/main.d179d15e.js",
+    "static/js/592.c25c8cbc.chunk.js": "/static/js/592.c25c8cbc.chunk.js",
+    "static/media/gradient-background.jpg": "/static/media/gradient-background.2363b385e95db69df419.jpg",
+    "static/media/RussoOne-Regular.ttf": "/static/media/RussoOne-Regular.b2f5b287ccb8fd446eae.ttf",
+    "index.html": "/index.html",
+    "main.24c8cabb.css.map": "/static/css/main.24c8cabb.css.map",
+    "main.d179d15e.js.map": "/static/js/main.d179d15e.js.map",
+    "592.c25c8cbc.chunk.js.map": "/static/js/592.c25c8cbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c8cabb.css",
+    "static/js/main.d179d15e.js"
+  ]
+}

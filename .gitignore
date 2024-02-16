@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# /build
+# Push build directory https://gist.github.com/cobyism/4730490
 
 # misc
 .DS_Store
