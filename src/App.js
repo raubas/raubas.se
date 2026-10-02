@@ -14,7 +14,7 @@ function App() {
             rel="noopener noreferrer"
           >Contact on Linkedin</a>
         <div className='App-footer'>
-          <p className="small">Copyright 2024 Raubas AB</p>
+          <p className="small">Copyright 2026 Raubas AB</p>
         </div>
       </div>
     </div>
